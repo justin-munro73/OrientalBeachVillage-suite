@@ -1,0 +1,73 @@
+#: locale=fr
+
+## Hotspot
+
+### Text
+HotspotPanoramaOverlayTextImage_2277ED88_2D7A_0698_41B0_37CABBF70CDC.text = Kitchen 
+HotspotPanoramaOverlayTextImage_3CFC7A00_2D8A_0D88_41A3_26C34C8A68F0.text = TV Lounge
+
+### Tooltip
+HotspotPanoramaOverlayArea_3B33A6CA_3565_176D_41B4_9B9F330C1587.toolTip = Go to SwimmingPool
+
+## Media
+
+### Image
+imlevel_247D9577_329E_0788_41C0_277F71D064DD.url = media/panorama_27943300_2D76_0388_41C6_7A0FEF43222F_HS_0pvsga40_fr.webp
+imlevel_3CCDB133_2D96_1F88_41B1_F6D03AB7A6E6.url = media/panorama_2794E62D_2D76_0598_4193_4BB84C0FC455_HS_qkavw5n1_fr.webp
+imlevel_313982A5_3EAA_E4DE_41CE_DEF72F94A945.url = media/zoomImage_2E617A2B_357D_3F23_41C1_A95681BFD54F_fr_0_0.png
+imlevel_313862A6_3EAA_E4DA_41C6_E6468B570433.url = media/zoomImage_2E617A2B_357D_3F23_41C1_A95681BFD54F_fr_0_1.png
+imlevel_313842A6_3EAA_E4DA_41A8_1275491396C5.url = media/zoomImage_2E617A2B_357D_3F23_41C1_A95681BFD54F_fr_0_2.png
+imlevel_313B02B6_3EAA_E43A_4154_5165CE0DCE9B.url = media/zoomImage_2FE840C6_357D_0B62_41C7_99F0111F25E9_fr_0_0.png
+imlevel_313BD2B6_3EAA_E43A_41BE_A1A3DC27A835.url = media/zoomImage_2FE840C6_357D_0B62_41C7_99F0111F25E9_fr_0_1.png
+imlevel_313BC2B6_3EAA_E43A_41CE_DD006E8673B0.url = media/zoomImage_2FE840C6_357D_0B62_41C7_99F0111F25E9_fr_0_2.png
+
+### Popup Image
+
+### Title
+panorama_2664EA45_2D76_0D88_41A9_E4F45A76E801.label = Bathroom
+panorama_27947F09_2D76_0398_4174_81CC7594CB29.label = Enter
+panorama_27941D5C_2D76_07B8_41C3_4E4D4BE69A2C.label = Frontage
+panorama_2794E62D_2D76_0598_4193_4BB84C0FC455.label = Kitchen
+album_265C1FC0_3428_2B1D_41C0_72A500B92F50_0.label = P1010256
+album_265C1FC0_3428_2B1D_41C0_72A500B92F50_1.label = P1010257
+photo_3AB69F4A_3428_2B2D_41AE_F8624546E41B.label = P1010257
+photo_3AB7C2F3_3428_3AE3_417A_7DD830C6437E.label = P1010258
+album_265C1FC0_3428_2B1D_41C0_72A500B92F50_2.label = P1010258
+album_265C1FC0_3428_2B1D_41C0_72A500B92F50.label = Photo Album P1010256
+panorama_27940825_2D76_0D88_41B2_5C859BC29781.label = Room
+panorama_3E9B1DAA_355F_752D_41C5_A504A0EBB271.label = SwimmingPool
+panorama_27943300_2D76_0388_41C6_7A0FEF43222F.label = TV
+panorama_27911213_2D76_1D88_41BE_D604AE086ABE.label = corridor
+panorama_27943C00_2D76_0588_41BF_2E8C7A15ED90.label = corridor_end
+video_21105D62_3468_2F1D_41C2_5382FC4D73B4.label = movie presentation
+
+### Video
+videolevel_21AD3394_3468_1B26_41C0_FE9B9AD7226D.url = media/video_21105D62_3468_2F1D_41C2_5382FC4D73B4_fr.mp4
+videolevel_21AD3394_3468_1B26_41C0_FE9B9AD7226D.posterURL = media/video_21105D62_3468_2F1D_41C2_5382FC4D73B4_poster_fr.jpg
+
+### Video Subtitles
+
+## Popup
+
+### Body
+htmlText_3BB7B602_3428_7D1D_41B4_DED34AD9019C.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:16px;">The suite features a fully equipped kitchen designed for comfort and convenience. It includes a microwave, a refrigerator with a freezer compartment, an oven, and a stovetop</SPAN>.</SPAN></DIV></BODY></HTML></div>
+
+### Title
+window_3BB70602_3428_7D1D_41C8_BC9A8C419808.title = Fully equipped kitchen
+
+## Skin
+
+### Button
+Button_26D4B724_3428_7B65_41B3_F5F8806E70BD.label = Created by Orizon Studio
+Button_26478A38_3438_356D_41C2_12ED8D50DFE5.label = Created by Orizon Studio
+
+### Tooltip
+Button_26D4B724_3428_7B65_41B3_F5F8806E70BD.toolTip = Click for more info
+Button_26478A38_3438_356D_41C2_12ED8D50DFE5.toolTip = Clik for more info
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Oriental Village Suite
